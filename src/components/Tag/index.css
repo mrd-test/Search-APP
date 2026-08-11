@@ -1,0 +1,23 @@
+.tag {
+    flex: 1 0 100px;
+    height: 35px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .20);
+    border-radius: 5px;
+    text-align: center;
+    line-height: 35px;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, .10);
+    border: none;
+    outline: none;
+    padding: 0;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 250ms linear,
+                color 250ms linear;
+}
+.tag_active {
+    background-color: brown;
+    color: #fff;
+}

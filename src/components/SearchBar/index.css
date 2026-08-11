@@ -1,0 +1,25 @@
+.input {
+    width: 266px;
+    height: 48px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    border: none;
+    margin-bottom: 26px;
+    outline: none;
+
+
+
+&:active, &:focus { 
+    font-size: 22px;
+    border: 2px solid #FFAEBC;
+    outline: none;
+    background-color: #ffffff;
+  }
+
+
+}
