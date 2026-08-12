@@ -3,6 +3,8 @@ Photo Search App
 A simple React app for browsing and searching high-quality photos, powered by the Pexels API. Users can either search for photos by keyword or quickly browse curated categories using tag buttons.
 
 
+Click here to see: https://mrd-test.github.io/Search-APP/
+
 Preview
 
 <img src="./public/demo1.png" alt="Web APP Preview" width="900">
@@ -45,6 +47,8 @@ This project requires a Pexels API key. Create a .env file in the project root:
 
 VITE_PEXELS_API_KEY=your_pexels_api_key_here
 
+
+https://mrd-test.github.io/Search-APP/
 
 Running Locally
 bash
